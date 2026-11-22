@@ -1,0 +1,13 @@
+{
+  "id": "vadapav-scraper",
+  "name": "Vadapav Provider",
+  "description": "Scrapes direct movie links from vadapav.mov",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "supportedTypes": ["movie"],
+  "filename": "providers/vadapav.js",
+  "enabled": true,
+  "formats": ["mp4", "mkv", "m3u8"],
+  "logo": "https://example.com/vadapav-logo.png",
+  "contentLanguage": ["en"]
+}
